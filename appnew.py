@@ -1,16 +1,4 @@
-"""
-Marketing Email Editor — Streamlit App
-Based on the Software Requirements Specification for a Marketing Email Editor Demo.
 
-Requirements:
-    pip install streamlit jinja2
-
-Optional (rich text editor):
-    pip install streamlit-quill
-
-Run:
-    streamlit run email_editor.py
-"""
 
 import base64
 import smtplib
